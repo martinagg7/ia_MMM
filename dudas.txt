@@ -1,2 +1,4 @@
 1.Cuando ahcemos la predicción sale boen proque estamos cortando los utkimao dato en la serie temporal que eran muy planos peor como tla no estamos ahciendo la repodccion a 6 meses
 2.El intervalor de confianza por 1 no sale muy bien-
+3.A parte de visitantantes web tmabie. teiens trafico ficiao como gestionamos esto.
+4.Que era Mercado exacatmente.
